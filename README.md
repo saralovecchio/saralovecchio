@@ -7,7 +7,7 @@
   👩‍💻 Embedded & Neurotech Engineer · Real-time ML · R&D 🌷  
 </p>
 <p align="center">
-  <em>“Still learning everyday.”</em>
+  <em>Still learning, everyday.</em>
 </p>
 
 <p align="center">
