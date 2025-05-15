@@ -1,4 +1,4 @@
-<h1 align="center">Sara Lovecchio</h1>
+<h1 align="center">Sara Lo Vecchio</h1>
 <p align="center">
   👩‍💻 Embedded & Neurotech Engineer · Researcher · Real-time ML Systems  
 </p>
