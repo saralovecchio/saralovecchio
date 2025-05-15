@@ -1,38 +1,92 @@
-<h1 align="center">Sara Lo Vecchio</h1>
 <p align="center">
-  👩‍💻 Embedded & Neurotech Engineer · Researcher · Real-time ML Systems  
-</p>
-<p align="center">
-  <a href="https://github.com/saralovecchio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:saralovecchio13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=apple&logoColor=white"/></a>
-  <a href="https://linktocv.com"><img src="https://img.shields.io/badge/CV-PDF-informational?style=flat&logo=adobeacrobatreader&logoColor=white"/></a>
+  <img src="https://your-url.com/banner.png" alt="Banner" width="100%"/>
 </p>
 
----
+<h1 align="center">Sara Lovecchio</h1>
+<p align="center">
+  👩‍💻 Embedded & Neurotech Engineer · Real-time ML · R&D 🌷  
+</p>
+<p align="center">
+  <em>“Still learning everyday.”</em>
+</p>
 
-### 🧠 What I Do
-- 🧩 **Embedded ML**: Edge classification & signal decoding on ARM Cortex-M (nRF5340, Arduino BLE)
-- ⚡ **Closed-loop Neurotech**: Real-time neural interfaces for bladder state decoding & stimulation
-- 🧰 **Cross-platform tools**: Swift/macOS native apps · Python visualizers · BLE protocols
-- 🔬 **Academic R&D**: BioRobotics · Neuroprosthetics · Human-machine interfaces
-
----
-
-### 📁 Featured Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 [Realtime Pudendal Decoder](https://github.com/saralovecchio/...) | Embedded classification of neural signals on nRF5340 | `C` · `Zephyr RTOS` · `TFLite Micro` |
-| 💻 [macOS BLE UI](https://github.com/saralovecchio/...) | Native Swift app for BLE communication & plotting | `Swift` · `CoreBluetooth` · `SwiftUI` |
-| 📊 [Offline ML Pipeline](https://github.com/saralovecchio/...) | MATLAB/Python pipeline for training ML/DL decoders | `Python` · `MATLAB` · `Sklearn` |
+<p align="center">
+  <a href="mailto:saralovecchio13@gmail.com">📧 Email</a> • 
+  <a href="https://yourwebsite.com">🌐 Portfolio</a> • 
+  <a href="https://linktocv.com">📄 CV</a>
+</p>
 
 ---
 
-### 🛠️ Tools I Use
-`C/C++` · `Zephyr RTOS` · `SwiftUI` · `Python` · `TFLite` · `MATLAB`  
-`nRF5340` · `Arduino Nano BLE 33` · `BLE` · `Git` · `CMake` · `Jupyter`
+### 🧠 About Me
+
+I design intelligent embedded systems that interact with the human nervous system in real time — combining bioelectronics, firmware, and machine learning.
+
+- 🎯 Edge AI on Cortex-M (nRF5340, Arduino BLE 33)
+- 🧬 Closed-loop neurostimulation systems
+- 📡 Custom BLE comms + native macOS visual interfaces (SwiftUI)
+- 💡 Strong R&D focus in neurotech and medical innovation
 
 ---
 
-> _Still learning, everyday_
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zephyr_RTOS-563D7C?style=flat&logo=zephyrproject&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nRF%20SoC-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge%20Impulse-black?style=flat&logo=edgeimpulse&logoColor=white"/>
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/saralovecchio/neural-decoder-firmware">
+        <img src="https://your-url.com/neural-decoder.png" width="200"/><br/>
+        <b>🧠 Neural Decoder</b>
+      </a><br/>
+      <sub>Firmware with real-time neural classification on nRF5340</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/saralovecchio/macos-ble-ui">
+        <img src="https://your-url.com/macos-ui.png" width="200"/><br/>
+        <b>💻 macOS BLE App</b>
+      </a><br/>
+      <sub>SwiftUI interface to stream and visualize embedded data</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧬 System Architecture
+
+<p align="center">
+  <img src="https://your-url.com/architecture.svg" width="70%" />
+</p>
+
+<sub align="center">
+  <p align="center">From signal to closed-loop response — built with real-time precision 🎯</p>
+</sub>
+
+---
+
+### 📈 GitHub Stats (optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saralovecchio&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <em>Made with ❤️ and a tulip 🌷</em>
+</p>
+
 
