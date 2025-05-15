@@ -2,7 +2,7 @@
   <img src="https://your-url.com/banner.png" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Sara Lovecchio</h1>
+<h1 align="center">Sara Lo Vecchio</h1>
 <p align="center">
   👩‍💻 Embedded & Neurotech Engineer · Real-time ML · R&D 🌷  
 </p>
